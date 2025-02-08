@@ -113,6 +113,7 @@ Project management, planning and execution (35 employees).
 - [Agile at Work: Reporting with Agile Charts and Boards](https://www.linkedin.com/learning/certificates/27281ce4fb50e01b999a80d7d60103bbf7c6cee96f7174dfacafcb3a9fc60dd7?trk=backfilled_certificate)
 - [Learning SCRUM](https://www.linkedin.com/learning/certificates/f48c52dddf8ba0e9dee52567ca48a9652d808c6c968845cd928abe7c9764c962?trk=backfilled_certificate)
 - [Fundamentos de la gestión de proyectos ágil](https://www.linkedin.com/learning/certificates/86a7ec2b33ad42d1acc1c5768ce5bcd2131fcfe693e254c0c79f5e9bb018eb55?trk=backfilled_certificate)
+- [Learning Data Analytics: 1 Foundations](https://www.linkedin.com/learning/certificates/0b659806efe584b6ec3f41159670009899eb22126b0746e5916cd410b20e28b8?trk=share_certificate)
 
   Data Analyst LinkedIn
 - [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/50ec95d37a592ebde522ee71e02bd8ad8ec05310367fd9bd41fbf8404471e6a1?trk=share_certificate)
