@@ -105,6 +105,7 @@ Project management, planning and execution (35 employees).
 
 
   LinkedIn Certif
+- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/cd44de67edbbd13dd6868e13fb5650b11bf88322d94f30e91ce0a660a4e013ae?trk=share_certificate)
 - Transición de gestión de proyectos encascada a gestión de proyectos Agile,  Issued Feb 2022Issued Feb 2022 Credential ID S-Y59OM5vEV0Jqhsxv95xrHLXvO
 - [Agile at Work: Planning with Agile User Stories](https://www.linkedin.com/learning/certificates/7d024148d511bbb827f888defc5e9aa8de76b23d6689840e838549aa1d457d1d?trk=backfilled_certificate)
 - [Fundamentos de Lean Six Sigma](https://www.linkedin.com/learning/certificates/1459eb1cdae5f20b28041dc07637509c3b02601ca8a6195f76886f5dc8118042?trk=backfilled_certificate)
