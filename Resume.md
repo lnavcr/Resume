@@ -94,6 +94,7 @@ Project management, planning and execution (35 employees).
 
 ## Certifications
 - [Business Analytics](https://www.credly.com/badges/58490519-b918-49b6-8485-02dde84e18a9/public_url)
+- [Databases and SQL for Data Science](https://www.credly.com/badges/1768afc4-1e0e-46f9-8d43-89fe10e44ee8/public_url)
 - [Cloud Business Analytics](https://www.credly.com/badges/eedff3af-7252-4ab4-9886-ff2862c31cb7/public_url)
 - [Data Analisys with Power BI #1](https://www.credly.com/badges/04812387-7f2b-4b2b-bca8-129d927e3431/public_url)
 - [DAta Analisys with Pwer BI #2](https://www.credly.com/badges/8f643ac2-bd2c-4719-b43e-de9444ecce74/public_url)
