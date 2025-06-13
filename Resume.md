@@ -26,7 +26,7 @@ simplifying processes, and delivering actionable insights to drive strategic dec
 
 ## Experience
 ### Support OPS, Data Analyst
-Amazon. August 2nd, 2021 to December 2024 
+Amazon. December 2022 to December 2024 
 Analysis and improvement of data management process 
 Collect, analyze and process dispute data from vendors to follow SOP -Standard operative procedures 
 Data analysis to create dashboards and reports 
@@ -42,7 +42,8 @@ End-to-end data projects, starting from requests to model deployment to address 
 opportunities 
 Developed predictive models, algorithms, and data-driven solutions to optimize business process, 
 improve performance, and drive strategic decision-making 
-• Executive Customer Relations, D2AS. (2021 to 2022)
+### Executive Customer Relations Oficcer, D2AS
+Amazon. D2AS. Agust 2nd 2021 to November 2022)
 Processing cases, tickets and customer needs escalated to the ECR team by customers and/or customer 
 service associates 
 Experience handling any type of customer escalated contacts 
@@ -59,15 +60,15 @@ escalations required by CS support.
 Project management, planning and execution (up to 100 employees). 
 Created databases to handle quantities to calculate, monitor and improve requirements, human resources 
 and system costs. 
-Prepared engineering plans and shop-drawings, details and RFI . 
+Prepared engineering plan details and RFI . 
 Procurement and import analysis process 
-Checking for conformity to codes and engineering standards procedures and materials. Provide QA/QC 
-reviews against codes, test and review products and material creating databases 
+Checking for conformity to codes and engineering standards procedures. Provide QA/QC reviews against codes,
+test and review products and material creating databases 
 Administration of several projects at the same time, value engineering and design-to-cost processes to 
 optimally match to the requirements 
 Manage contracts with consultants and subcontractors 
 
-3. SVQ, Constructora (Builder) San José, Costa Rica Nov. 2007 – Mar. 2008 
+4. SVQ, Constructora (Builder) San José, Costa Rica Nov. 2007 – Mar. 2008 
 • Project Manager. 
 Courtroom Building, Inter-American Court of Human Rights 
 Project management, planning and execution (35 employees). 
@@ -89,11 +90,15 @@ Project management, planning and execution (35 employees).
 
 ### Civil Engineering
 - **University de Costa Rica**
-- **Year**: 1998-2003
+- **Year**: 2003
+- Undergraduated
 
 
 ## Certifications
 - [Business Analytics](https://www.credly.com/badges/58490519-b918-49b6-8485-02dde84e18a9/public_url)
+- [Databases and SQL for Data Science](https://www.credly.com/earner/earned/badge/1768afc4-1e0e-46f9-8d43-89fe10e44ee8)
+- [Data Visualization with Python](https://www.credly.com/earner/earned/badge/9592f02b-a38e-4e93-aaa2-64d24a09c17b)
+- [Data Analysis with Python](https://www.credly.com/earner/earned/badge/d09ba1c8-cdd4-48da-b753-d7dc1dd11ded)
 - [Databases and SQL for Data Science](https://www.credly.com/badges/1768afc4-1e0e-46f9-8d43-89fe10e44ee8/public_url)
 - [Cloud Business Analytics](https://www.credly.com/badges/eedff3af-7252-4ab4-9886-ff2862c31cb7/public_url)
 - [Data Analisys with Power BI #1](https://www.credly.com/badges/04812387-7f2b-4b2b-bca8-129d927e3431/public_url)
@@ -103,7 +108,6 @@ Project management, planning and execution (35 employees).
 
 - Business plans, (SBD Costa Rica) University ITCR, Credential ID 0529-2010
 - Microsoft Project, FUNDES Costa Rica
-
 
   LinkedIn Certif
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/cd44de67edbbd13dd6868e13fb5650b11bf88322d94f30e91ce0a660a4e013ae?trk=share_certificate)
